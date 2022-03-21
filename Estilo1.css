@@ -1,0 +1,37 @@
+body{
+    /* background-color: silver; */
+    background-image:url('logoiicana.png')
+}
+p {
+    background-color: white;
+    color: crimson;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    margin-top: 50px;
+
+}
+h1 {
+    background-color: rgb(139, 139, 146);
+    color: rgb(9, 39, 63);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.primerParrafo{
+    background-color:coral;
+    color: rgb(12, 11, 11);
+    
+    font-size: 20px;
+    margin-top: 50px;
+}
+
+.primerParrafoExtra{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#parrafoImportante{
+    font-style: italic;
+}
+
+#sub {
+    background-color: aquamarine;
+    color: darkslategrey;
+}
